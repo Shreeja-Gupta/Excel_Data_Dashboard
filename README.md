@@ -21,9 +21,6 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 - Dashboard Interaction < a href="https://github.com/Shreeja-Gupta/Excel_Data_Dashboard/blob/main/Vrinda-Store-SS.docx">View Dashboard</a>
 
 
-"C:\Users\91734\Downloads\Vrinda-Store-SS.docx"
-
-
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
 - Made sure data is consistent and clean with respect to data type, data format and values used.
