@@ -4,9 +4,6 @@ I developed a comprehensive project in Excel,it involves several stages data pre
 ## Project Objective
 The Vrinda Store wants to create an annual sales report for 2022. So that, the owner of the Vrinda store can understand their customers and grow more sales in 2023 & 2024.
 
-## Dataset Used
-- < a href="https://github.com/Shreeja-Gupta/Excel_Data_Dashboard/blob/main/Vrinda-Store-SS.docx">Dataset</a>
-
 ## Questions(KPIs)
 
 - Compare the sales and orders using single chart.
@@ -18,7 +15,7 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 - Which Channel is contributing maximum to the sales?
 - Highest selling category?
 - Percentage of Total Orders delivered
-- Dashboard Interaction < a href="https://github.com/Shreeja-Gupta/Excel_Data_Dashboard/blob/main/Vrinda-Store-SS.docx">View Dashboard</a>
+- Dashboard Interaction
 
 
 ## Process
